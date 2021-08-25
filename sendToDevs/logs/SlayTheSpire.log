@@ -1,0 +1,77 @@
+08:46:09.372 INFO desktop.DesktopLauncher> time: 1629881169368
+08:46:09.380 INFO desktop.DesktopLauncher> version: 2020-12-22
+08:46:09.380 INFO desktop.DesktopLauncher> libgdx:  1.9.5
+08:46:09.380 INFO desktop.DesktopLauncher> default_locale: zh_CN
+08:46:09.380 INFO desktop.DesktopLauncher> default_charset: UTF-8
+08:46:09.380 INFO desktop.DesktopLauncher> default_encoding: UTF-8
+08:46:09.380 INFO desktop.DesktopLauncher> java_version: 1.8.0_301
+08:46:09.380 INFO desktop.DesktopLauncher> os_arch: x86_64
+08:46:09.380 INFO desktop.DesktopLauncher> os_name: Mac OS X
+08:46:09.380 INFO desktop.DesktopLauncher> os_version: 10.16
+08:46:09.381 INFO core.SystemStats> MEMORY STATS:
+Free Memory: 201Mb
+Max Memory: 3,641Mb
+Allocated Memory: 245Mb
+Unallocated Memory: 3,395Mb
+Total Free Memory: 3,597Mb
+Used Memory: 43Mb
+
+08:46:09.382 INFO core.SystemStats> DISK STATS:
+Total Space: 233,752Mb
+Usable Space: 76,024Mb
+Free Space: 219,123Mb
+
+08:46:09.426 INFO core.DisplayConfig> Reading info.displayconfig
+08:46:09.431 INFO core.DisplayConfig> DisplayConfig successfully read.
+08:46:09.432 INFO desktop.DesktopLauncher> [WINDOWED_MODE]
+08:46:09.432 INFO desktop.DesktopLauncher> Settings successfully loaded
+08:46:09.432 INFO desktop.DesktopLauncher> Launching application...
+08:46:10.291 INFO ststwitch.TwitchConfig> The 'twitchconfig.txt' already exists, not overwriting it.
+08:46:10.295 INFO core.CardCrawlGame> DistributorPlatform=steam
+08:46:10.295 INFO core.CardCrawlGame> isModded=false
+08:46:10.295 INFO core.CardCrawlGame> isBeta=false
+08:46:10.504 INFO steam.SteamIntegration> [FAILURE] Steam API failed to initialize correctly.
+08:46:10.507 INFO core.CardCrawlGame> No migration
+08:46:10.539 INFO core.Settings> Initializing display settings...
+08:46:10.539 INFO core.DisplayConfig> Reading info.displayconfig
+08:46:10.540 INFO core.DisplayConfig> DisplayConfig successfully read.
+08:46:10.541 INFO core.Settings> Initializing sound settings...
+08:46:10.542 INFO core.Settings> Initializing game settings...
+08:46:10.671 INFO localization.LocalizedStrings> Loc Strings load time: 113ms
+08:46:10.736 INFO audio.MusicMaster> Music Volume: 0.5
+08:46:10.745 INFO audio.SoundMaster> Sound Effect Volume: 0.5
+08:46:10.746 INFO audio.SoundMaster> Loaded 368 Sound Effects
+08:46:10.746 INFO audio.SoundMaster> SFX load time: 3ms
+08:46:11.867 INFO cards.AbstractCard> Card Image load time: 1108ms
+08:46:12.448 INFO helpers.ImageMaster> Texture load time: 574ms
+08:46:12.782 INFO helpers.FontHelper> Font load time: 238ms
+08:46:12.798 INFO unlock.UnlockTracker> RED UNLOCKS:   0/9
+08:46:12.798 INFO unlock.UnlockTracker> GREEN UNLOCKS: 0/9
+08:46:12.798 INFO unlock.UnlockTracker> BLUE UNLOCKS: 0/9
+08:46:12.798 INFO unlock.UnlockTracker> PURPLE UNLOCKS: 0/9
+08:46:12.798 INFO unlock.UnlockTracker> RELIC UNLOCKS: 0/24
+08:46:12.864 INFO unlock.UnlockTracker> CARDS SEEN:    0/0
+08:46:12.881 INFO unlock.UnlockTracker> RELICS SEEN:   4/0
+08:46:12.996 INFO panels.TopPanel> Twitch Integration enabled due to presence of 'twitch.properties` file.
+08:46:12.999 INFO panels.TopPanel> Not starting twitch integration because enabled=false
+08:46:13.048 INFO core.DisplayConfig> Reading info.displayconfig
+08:46:13.050 INFO core.DisplayConfig> DisplayConfig successfully read.
+08:46:13.050 INFO core.DisplayConfig> Reading info.displayconfig
+08:46:13.051 INFO core.DisplayConfig> DisplayConfig successfully read.
+08:46:13.051 INFO core.DisplayConfig> Reading info.displayconfig
+08:46:13.051 INFO core.DisplayConfig> DisplayConfig successfully read.
+08:46:13.051 INFO core.DisplayConfig> Reading info.displayconfig
+08:46:13.052 INFO core.DisplayConfig> DisplayConfig successfully read.
+08:46:13.052 INFO core.DisplayConfig> Reading info.displayconfig
+08:46:13.053 INFO core.DisplayConfig> DisplayConfig successfully read.
+08:46:13.220 INFO helpers.CardLibrary> Card load time: 339ms with 370 cards
+08:46:13.385 INFO helpers.RelicLibrary> Relic load time: 164ms
+08:46:13.387 INFO input.InputHelper> Setting input processor to Scroller
+08:46:13.406 INFO integrations.SteelSeries> enabled=false
+08:46:13.718 INFO controller.CInputHelper> [CONTROLLER] Utilizing DirectInput
+08:46:13.731 INFO controller.CInputHelper> [CONTROLLER] No controllers detected
+08:46:16.115 INFO core.CardCrawlGame> PAUSE()
+08:46:16.117 INFO core.CardCrawlGame> Game shutting down...
+08:46:16.117 INFO core.CardCrawlGame> Flushing saves to disk...
+08:46:16.121 INFO core.CardCrawlGame> Shutting down publisher integrations...
+08:46:16.121 INFO core.CardCrawlGame> Flushing logs to disk. Clean shutdown successful.
